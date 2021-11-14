@@ -29,5 +29,4 @@
 - 🤔 I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust
 - 📫 How to reach me: 
 - Telegram: @PEDROTUBER44
-- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profilelipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BxFnCsOV4TO2n%2FgZKe7pO6Q%3D%3D
-- 
+- LinkedIn: https://www.linkedin.com/in/pedro-rosendo-a72801225/
