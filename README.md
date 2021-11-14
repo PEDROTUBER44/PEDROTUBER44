@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/pedro-rosendo-a72801225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.t.me/PEDROTUBER44" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PEDROTUBER44/PEDROTUBER44/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
