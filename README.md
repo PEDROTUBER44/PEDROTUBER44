@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ## Olá eu sou o Pedro Rosendo
 
 <div align="center">
