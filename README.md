@@ -1,4 +1,4 @@
-## Olá eu sou o Pedro Rosendo
+## Hello I'm Pedro Rosendo
 
 <div align="center">
   <a href="https://github.com/PEDROTUBER44">
