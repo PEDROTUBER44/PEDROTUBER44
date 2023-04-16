@@ -28,5 +28,5 @@
 - 👯 I'm looking to collaborate on projects written in rust
 - 🤔 I'm looking for help with a project for a linux distro focused on being practical and fast developed in rust
 - 📫 How to reach me: 
-- Telegram: @PEDROTUBER44
+- Telegram: @PEDROROSENDO
 - LinkedIn: https://www.linkedin.com/in/pedro-rosendo-a72801225/
