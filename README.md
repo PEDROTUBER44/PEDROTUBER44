@@ -1,19 +1,16 @@
-<h1 align="center">Oi 👋, eu sou o Pedro Rosendo</h1>
-<h3 align="center">Eu sou um engenheiro de software pleno,de 16 anos, programa de estudo a 3 anos.</h3>
+<h1 align="center">Hi 👋, I'm Pedro Rosendo</h1>
+<h3 align="center">I am a pleno software engineer, 18 years old, 5 year study program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrotuber44&label=Profile%20views&color=0e75b6&style=flat" alt="pedrotuber44" /> </p>
 
-<p align ="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username =pedrotuber44" alt="pedrotuber44" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando em [Mild](https://github.com/PEDROTUBER44/Mild)
 
-- 🌱 Atualmente estou aprendendo **Rust**
+- 🌱 Atualmente estou aprendendo [Rust](https://www.rust-lang.org/)
 
 - 👯 Estou procurando colaborar no [Linux Kernel](https://github.com/torvalds/linux)
 
 - 🤝 Estou procurando ajuda com [Rocket Operative System](https://github.com/PEDROTUBER44/Rocket-Operative-System)
-
-- 💬 Pergunte-me sobre **Rust Language and Web Development**
 
 - 📫 Como chegar me **pedro.rosendo@protonmail.com**
 
