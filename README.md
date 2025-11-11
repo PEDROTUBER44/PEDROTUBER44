@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Rosendo</h1>
-<h3 align="center">A passionate software engineer, 18 years old, pursuing a 5-year study program.</h3>
+<h3 align="center">A passionate software engineer, 19 years old, pursuing a 6-year study program.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pedrotuber44&label=Profile%20views&color=0e75b6&style=flat" alt="pedrotuber44" />
